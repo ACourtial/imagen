@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GeOxygeneApplicationProperties>
+    <lastOpenedFile>F:\output_shape\routes_bduni_alpes_matched.shp</lastOpenedFile>
+    <sld></sld>
+    <ConnectionParam>
+        <dbtype>postgis</dbtype>
+        <host>localhost</host>
+        <port>5432</port>
+        <database>postgres</database>
+        <schema>public</schema>
+        <user>test</user>
+        <passwd>test</passwd>
+    </ConnectionParam>
+    <DefaultVisualizationType>AWT</DefaultVisualizationType>
+    <ProjectFrameLayout>floating</ProjectFrameLayout>
+    <DefaultLookAndFeel></DefaultLookAndFeel>
+    <recent>F:\output_shape</recent>
+    <recent>F:\dataRouteMontagne</recent>
+    <recent>D:\data</recent>
+    <recent>G:\2019-2020\these\data\dataRouteMontagne</recent>
+    <recent>F:\2019-2020\these\data\prod\selecFIN</recent>
+    <recent>F:\2019-2020\these\data\dataRouteMontagne</recent>
+    <recent>D:\dataRouteMontagne</recent>
+    <recent>D:\d\data\dataRouteMontagne</recent>
+    <recent>D:\d\data\prod\selecFIN</recent>
+    <GeometryEngine>JTS</GeometryEngine>
+</GeOxygeneApplicationProperties>
